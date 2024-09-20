@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirolos00Daniel
 - 👀 I’m interested in Data Engineering & Data scientest
 - 🌱 I’m currently learning Microsoft Azure data Engineering
-- 💞️ I’m looking to collaborate on projects related to data Engineering
+- 💞️ I’m looking to collaborate on projects related to Data Engineering and Analyst
 - 📫 How to reach me kiroemad2389@gmail.com
 - ⚡ Fun fact: I am also a Personnal Trainer at Gold's Gym
 
